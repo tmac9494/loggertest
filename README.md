@@ -21,5 +21,3 @@ Lastly, treat this as a code review as well. Make any improvements you see fit (
 ---
 ### Other Notes
 Use js or ts (Remove `// @ts-nocheck` from each file if you wish TS to start checking).
-
-Questions? Email jacobprather@northwesternmutual.com
